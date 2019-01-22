@@ -1,6 +1,7 @@
 # shoppingmall
 A Graduation Design
 Vue + Route + Vuex
+
 （1）首页商品展示（轮播图、商品分类、商品可分页或懒加载）                                                                
 （2）商品具体描述页                                                                
 （3）购物车（查看订单列表、订单详情、待收货、待评价）                                                                 
